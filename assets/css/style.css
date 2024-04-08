@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(243, 191, 191);
+}
+nav ul li{
+    list-style: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-right: 12%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+nav ul{
+    display: flex;
+    margin-left: 70%;
+}
+nav ul li:hover{
+    color: whitesmoke;
+}
+nav{
+    background-color: rgb(109, 108, 108);
+}
